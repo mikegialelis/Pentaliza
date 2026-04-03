@@ -84,7 +84,7 @@ The application uses **Windows Forms** and includes:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/mikegialelis/Pentaliza
+git clone https://github.com/mikegialelis/Pentaliza.git
 ```
 2. Open the project in Visual Studio
 3. Run the project with F5
