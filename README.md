@@ -85,3 +85,6 @@ The application uses **Windows Forms** and includes:
 
 ```bash
 git clone https://github.com/yourusername/pentaliza-csharp.git
+```
+2. Open the project in Visual Studio
+3. Run the project with F5
