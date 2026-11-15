@@ -73,7 +73,6 @@ The application uses **Windows Forms** and includes:
 ## Technologies Used
 
 - C#
-- .NET Framework
 - Windows Forms
 - Visual Studio
 
